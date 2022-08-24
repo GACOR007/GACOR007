@@ -1,0 +1,1 @@
+https://idn2-sg40.ppgames.net/gs2c/html5Game.do?jackpotid=1&gname=Starlight%20Princess&extGame=1&ext=0&cb_target=exist_tab&symbol=vs20starlight&jurisdictionID=99&minilobby=false&mgckey=AUTHTOKEN@f4458b40019e3cdff0ad2c89d6692d3c2b5c7ab4ac396e99465422f7f286724f~stylename@idn2_idntotob2b_7~SESSION@199b2a72-e534-437e-8741-2b95df61bdc7~SN@0e693543&tabName=
